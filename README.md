@@ -56,7 +56,10 @@ Built with <3
 #### File Organization
 ```text
 repo-template/
-├── imgs/ *documation
+│
+├── src/ *project source
+│
+├── imgs/ *documentation
 │   ├── logo.png
 │
 ├── LICENSE/ *Usually MIT
@@ -67,7 +70,7 @@ repo-template/
 # Roadmap
 See `CHANGELONG.md` for changes.
 
-- [x] Add Changelog
+- [x] Add CHANGELOG
 - [ ] Add to projects
  
 ---
