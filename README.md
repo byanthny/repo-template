@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <h1 align="center">Project Name</h3>
+  <h1 align="center">Repo Template</h3>
 
   <p align="center">
-    [Status] Project Description
+    [Status] Template for new repos
     <br />
-    <a href="https://github.com/othneildrew/repo-template">View Demo</a>
+    <a href="https://github.com/byanthny/repo-template">View Demo</a>
   </p>
 </div>
 
@@ -38,16 +38,16 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/byanthny/repo-template.git
    ```
 
 # Technical Stuff
@@ -68,7 +68,7 @@ repo-template/
 # Roadmap
 See `CHANGELONG.md` for changes.
 
-- [x] Add CHANGELOG
+- [x] Create repo template
 - [ ] Add to projects
  
 ---
