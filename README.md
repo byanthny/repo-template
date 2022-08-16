@@ -58,8 +58,6 @@ Built with <3
 repo-template/
 │
 ├── src/ *project source
-│
-├── imgs/ *documentation
 │   ├── logo.png
 │
 ├── LICENSE/ *Usually MIT
