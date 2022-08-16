@@ -56,8 +56,8 @@ Built with <3
 #### File Organization
 ```text
 repo-template/
-├── docs/ *documation
-│   ├── imgs/
+├── imgs/ *documation
+│   ├── logo.png
 │
 ├── LICENSE/ *Usually MIT
 ├── CHANGELOG.md/ *CHANGELOG
